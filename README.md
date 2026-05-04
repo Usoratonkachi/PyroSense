@@ -5,7 +5,6 @@ PyroSense is an Arduino-based wildfire risk monitoring system that evaluates tem
 
 A projekt teljes kapcsolása és szimulációja megtekinthető itt: [Tinkercad szimuláció](https://www.tinkercad.com/things/kXjqzLdo4nl-microproc-beadando-/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard&sharecode=paB_99o3Bi_fUgsyWXNYZtUreOzRMOu3_8jmJwM53Fw)
 
-## Magyar
 ## Áttekintés
 
 A projekt célja annak bemutatása, hogyan lehet több környezeti tényezőt kombinálva egy egyszerű döntési rendszert létrehozni.  
